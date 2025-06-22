@@ -15,7 +15,7 @@ export default function Page() {
           <p className={`${lusitana.className} text-xl text-gray-
           800 md:text-3xl md:leading-normal`}>
             <strong>Welcome to Pretaught</strong></p>
-            <p className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}>We'll help you read and <strong><i>understand</i></strong> your <br/>first Java textbook</p>
+            <p className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}>We will help you read and <strong><i>understand</i></strong> your <br/>first Java textbook</p>
             <Link
             href="/login"
             className="flex items-center gap-5 self-start rounded-lg bg-blue-500 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-blue-400 md:text-base"
